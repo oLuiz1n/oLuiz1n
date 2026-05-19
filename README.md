@@ -31,21 +31,18 @@ Tenho experiência prática criando aplicações full stack, trabalhando tanto n
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,java,html,css,git,github,mysql,vscode" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,java,html,css,git,github,mysql,vscode,r" />
 
 </p>
 
----
-
-## 📌 Projetos em destaque
-
-### 💰 Finance Tracker
-Sistema de controle financeiro com dashboard interativo, gráficos e gerenciamento de despesas.
-
-🔹 Node.js  
-🔹 SQL  
-🔹 JavaScript  
-🔹 Dashboard responsivo  
+### 📊 Data Analytics & BI
+- Power BI
+- Tableau
+- Excel
+- SQL
+- Análise de Dados
+- Dashboards Interativos
+- Visualização de Dados
 
 ---
 
