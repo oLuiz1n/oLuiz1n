@@ -86,9 +86,9 @@ Sistema de autenticação com foco em segurança, validação de usuários e est
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=oLuiz1n&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=oLuiz1n&show_icons=true&theme=tokyonight)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oLuiz1n&layout=compact&langs_count=7&theme=tokyonight"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oLuiz1n&layout=compact&theme=tokyonight)
 
 </p>
 
