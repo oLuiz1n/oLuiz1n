@@ -4,7 +4,7 @@
 
 # 👋 Olá, eu sou Luiz Gustavo
 
-💻 Desenvolvedor Full Stack em formação  
+💻 Analista de Dados em formação
 🎯 Focado em Analise de Dados 
 📚 Estudando Análise e Desenvolvimento de Sistemas  
 🚀 Criando projetos modernos com JavaScript, Node.js, SQL e análise de dados  
