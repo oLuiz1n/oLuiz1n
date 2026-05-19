@@ -113,9 +113,7 @@ Sistema de autenticação com foco em segurança, validação de usuários e est
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:luizg6oliveira@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<img src="https://img.shields.io/badge/Gmail-luizg6oliveira%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 
 </p>
 
