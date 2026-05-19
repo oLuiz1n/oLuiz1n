@@ -4,16 +4,16 @@
 
 # 👋 Olá, eu sou Luiz Gustavo
 
-💻 Analista de Dados em formação
-🎯 Focado em Analise de Dados 
+📊 Analista de Dados em formação  
+🎯 Focado em Análise de Dados, Dashboards e Visualização de Dados  
 📚 Estudando Análise e Desenvolvimento de Sistemas  
-🚀 Criando projetos modernos com JavaScript, Node.js, SQL e análise de dados  
+🚀 Criando projetos com JavaScript, SQL, Power BI e análise de dados  
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou apaixonado por tecnologia, desenvolvimento de software e construção de soluções práticas para problemas reais.
+Sou apaixonado por tecnologia, análise de dados e desenvolvimento de soluções que geram insights e auxiliam na tomada de decisões.
 
 Atualmente venho desenvolvendo projetos voltados para:
 
@@ -23,7 +23,7 @@ Atualmente venho desenvolvendo projetos voltados para:
 - 🤖 Automações
 - 📈 Visualização e análise de dados
 
-Tenho experiência prática criando aplicações full stack, trabalhando tanto no front-end quanto no back-end.
+Também possuo experiência prática com desenvolvimento full stack, trabalhando tanto no front-end quanto no back-end.
 
 ---
 
@@ -36,6 +36,7 @@ Tenho experiência prática criando aplicações full stack, trabalhando tanto n
 </p>
 
 ### 📊 Data Analytics & BI
+
 - Power BI
 - Tableau
 - Excel
@@ -46,8 +47,22 @@ Tenho experiência prática criando aplicações full stack, trabalhando tanto n
 
 ---
 
+## 📌 Projetos em destaque
+
+### 💰 Finance Tracker
+
+Sistema de controle financeiro com dashboard interativo, gráficos e gerenciamento de despesas.
+
+🔹 Node.js  
+🔹 SQL  
+🔹 JavaScript  
+🔹 Dashboard responsivo  
+
+---
+
 ### 🎵 Mood Music
-Aplicação focada em experiência musical e interface moderna, permitindo explorar músicas e playlists com uma experiência dinâmica e intuitiva.
+
+Aplicação focada em experiência musical e interface moderna, permitindo explorar músicas e playlists de forma dinâmica e intuitiva.
 
 🔹 JavaScript  
 🔹 HTML/CSS  
@@ -57,12 +72,13 @@ Aplicação focada em experiência musical e interface moderna, permitindo explo
 ---
 
 ### 🔐 Sistema de Login
+
 Sistema de autenticação com foco em segurança, validação de usuários e estruturação de back-end.
 
 🔹 Node.js  
 🔹 API REST  
 🔹 Autenticação  
-🔹 Banco de dados
+🔹 Banco de dados  
 
 ---
 
@@ -70,9 +86,9 @@ Sistema de autenticação com foco em segurança, validação de usuários e est
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=oLuiz1n&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oLuiz1n&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </p>
 
@@ -107,4 +123,4 @@ Sistema de autenticação com foco em segurança, validação de usuários e est
 
 ## ⚡ Frase
 
-> “Transformando ideias em soluções através da tecnologia.”
+> “Transformando dados em insights através da tecnologia.”
