@@ -44,6 +44,7 @@ Também possuo experiência prática com desenvolvimento full stack, trabalhando
 - Análise de Dados
 - Dashboards Interativos
 - Visualização de Dados
+- Python
 
 ---
 
