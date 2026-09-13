@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Capa Linkedin.png" alt="Banner Luiz Gustavo" />
+  <img src="./Capa Linkedin.jfif" alt="Banner Luiz Gustavo" />
 </p>
 
 # 👋 Olá, eu sou Luiz Gustavo
