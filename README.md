@@ -4,11 +4,10 @@
 
 # 👋 Olá, eu sou Luiz Gustavo
 
-📊 Analista de Dados em formação  
-🎯 Focado em Análise de Dados, Dashboards e Visualização de Dados  
-📚 Estudando Análise e Desenvolvimento de Sistemas  
-🚀 Criando projetos com JavaScript, SQL, Power BI e análise de dados  
-
+📊 Dados & Desenvolvimento de Software
+🎯 Focado em Dados, BI, APIs e automações
+💻 Desenvolvendo aplicações com JavaScript, Node.js, Python e SQL
+🎓 Graduando em Análise e Desenvolvimento de Sistemas
 ---
 
 ## 🚀 Sobre mim
@@ -37,14 +36,18 @@ Também possuo experiência prática com desenvolvimento full stack, trabalhando
 
 ### 📊 Data Analytics & BI
 
+- JavaScript
+- Node.js
+- React
+- Python
+- SQL / MySQL
+- MongoDB
 - Power BI
 - Tableau
-- Excel
-- SQL
-- Análise de Dados
-- Dashboards Interativos
-- Visualização de Dados
-- Python
+- Pandas
+- APIs REST
+- Git/GitHub
+- IA / APIs de IA
 
 ---
 
@@ -52,45 +55,78 @@ Também possuo experiência prática com desenvolvimento full stack, trabalhando
 
 ### 💰 Finance Tracker
 
-Sistema de controle financeiro com dashboard interativo, gráficos e gerenciamento de despesas.
+Aplicação web para gerenciamento financeiro pessoal, com dashboard interativo, acompanhamento de receitas e despesas e análise dos dados por período e categoria.
 
-🔹 Node.js  
-🔹 SQL  
-🔹 JavaScript  
-🔹 Dashboard responsivo  
+Principais recursos:
 
----
+📊 Dashboard com indicadores e gráficos
+📅 Análise financeira por mês e dia
+🗂️ Categorização e detalhamento de transações
+📈 Comparação e histórico financeiro
+📄 Geração de relatórios financeiros em PDF
+🤖 Geração de relatórios utilizando IA
+🔗 API REST para comunicação entre front-end e back-end
 
-### 🎵 Mood Music
-
-Aplicação focada em experiência musical e interface moderna, permitindo explorar músicas e playlists de forma dinâmica e intuitiva.
-
-🔹 JavaScript  
-🔹 HTML/CSS  
-🔹 Interface responsiva  
-🔹 Experiência focada no usuário  
+Tecnologias: React · Node.js · Express · MySQL · Python · Flask · Chart.js · ReportLab · APIs de IA
 
 ---
 
 ### 🔐 Sistema de Login
 
-Sistema de autenticação com foco em segurança, validação de usuários e estruturação de back-end.
+API de autenticação desenvolvida para praticar conceitos de segurança, gerenciamento de usuários e arquitetura de back-end.
 
-🔹 Node.js  
-🔹 API REST  
-🔹 Autenticação  
-🔹 Banco de dados  
+Principais recursos:
+
+🔑 Autenticação de usuários
+🔒 Senhas protegidas com hash
+🎫 Autenticação baseada em tokens
+🗄️ Persistência de usuários em banco de dados
+
+Tecnologias: Node.js · Express · MySQL · bcrypt · JWT
+
+---
+
+### 🚀 SaaS Creators — Em desenvolvimento
+
+Plataforma voltada para criadores de conteúdo, centralizando dados de diferentes redes sociais em um único ambiente.
+
+Objetivo do projeto:
+
+📊 Centralizar métricas de Instagram, TikTok e YouTube
+📈 Criar dashboards e insights sobre desempenho
+🤖 Utilizar IA para auxiliar na geração de ideias e análises
+🔗 Trabalhar com APIs oficiais e autenticação OAuth
+📋 Gerar relatórios e informações úteis para criadores
+
+Tecnologias: Node.js · Express · MySQL · React · JavaScript · APIs REST · OAuth · APIs de redes sociais · IA
+
+---
+
+### 🎵 Mood Music
+
+Aplicação web que relaciona emoções e música, permitindo explorar playlists de acordo com diferentes estados emocionais.
+
+Principais recursos:
+
+🎵 Seleção de músicas e playlists
+🎭 Experiência baseada em emoções
+🔗 Integração entre front-end e back-end
+📱 Interface responsiva
+
+Tecnologias: JavaScript · HTML · CSS · Node.js · API REST · Banco de dados
 
 ---
 
 ## 🔥 Atualmente estudando
 
-- Engenharia de Software
-- Arquitetura de sistemas
-- APIs REST
-- Banco de dados
-- Estrutura de dados
-- Dashboards e análise de dados
+- Python para análise e automação
+- Pandas
+- APIs e integrações
+- Arquitetura de back-end
+- OAuth 2.0
+- Integração com APIs de redes sociais
+- IA aplicada a aplicações
+- Power BI e análise de dados
 
 ---
 
@@ -110,7 +146,7 @@ Sistema de autenticação com foco em segurança, validação de usuários e est
 
 ## ⚡ Frase
 
-> “Transformando dados em insights através da tecnologia.”
+> “Construindo soluções que conectam dados, tecnologia e automação.”
 
 ---
 
