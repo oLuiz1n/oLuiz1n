@@ -8,6 +8,7 @@
 🎯 Focado em Dados, BI, APIs e automações
 💻 Desenvolvendo aplicações com JavaScript, Node.js, Python e SQL
 🎓 Graduando em Análise e Desenvolvimento de Sistemas
+
 ---
 
 ## 🚀 Sobre mim
