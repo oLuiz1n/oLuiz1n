@@ -114,6 +114,3 @@ Sistema de autenticação com foco em segurança, validação de usuários e est
 
 ---
 
-<p align="center">
-  <img src="./Capa Final Ellie.png" alt="Banner Luiz Gustavo" />
-</p>
