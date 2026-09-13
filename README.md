@@ -4,10 +4,10 @@
 
 # 👋 Olá, eu sou Luiz Gustavo
 
-📊 Dados & Desenvolvimento de Software
-🎯 Focado em Dados, BI, APIs e automações
-💻 Desenvolvendo aplicações com JavaScript, Node.js, Python e SQL
-🎓 Graduando em Análise e Desenvolvimento de Sistemas
+📊 Dados & Desenvolvimento de Software<br>
+🎯 Focado em Dados, BI, APIs e automações<br>
+💻 Desenvolvendo aplicações com JavaScript, Node.js, Python e SQL<br>
+🎓 Graduando em Análise e Desenvolvimento de Sistemas<br>
 
 ---
 
