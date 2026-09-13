@@ -58,14 +58,14 @@ Também possuo experiência prática com desenvolvimento full stack, trabalhando
 
 Aplicação web para gerenciamento financeiro pessoal, com dashboard interativo, acompanhamento de receitas e despesas e análise dos dados por período e categoria.
 
-Principais recursos:
+#### Principais recursos:
 
-📊 Dashboard com indicadores e gráficos
-📅 Análise financeira por mês e dia
-🗂️ Categorização e detalhamento de transações
-📈 Comparação e histórico financeiro
-📄 Geração de relatórios financeiros em PDF
-🤖 Geração de relatórios utilizando IA
+📊 Dashboard com indicadores e gráficos<br>
+📅 Análise financeira por mês e dia<br>
+🗂️ Categorização e detalhamento de transações<br>
+📈 Comparação e histórico financeiro<br>
+📄 Geração de relatórios financeiros em PDF<br>
+🤖 Geração de relatórios utilizando IA<br>
 🔗 API REST para comunicação entre front-end e back-end
 
 Tecnologias: React · Node.js · Express · MySQL · Python · Flask · Chart.js · ReportLab · APIs de IA
@@ -76,12 +76,12 @@ Tecnologias: React · Node.js · Express · MySQL · Python · Flask · Chart.js
 
 API de autenticação desenvolvida para praticar conceitos de segurança, gerenciamento de usuários e arquitetura de back-end.
 
-Principais recursos:
+#### Principais recursos:
 
-🔑 Autenticação de usuários
-🔒 Senhas protegidas com hash
-🎫 Autenticação baseada em tokens
-🗄️ Persistência de usuários em banco de dados
+🔑 Autenticação de usuários<br>
+🔒 Senhas protegidas com hash<br>
+🎫 Autenticação baseada em tokens<br>
+🗄️ Persistência de usuários em banco de dados<br>
 
 Tecnologias: Node.js · Express · MySQL · bcrypt · JWT
 
@@ -91,13 +91,13 @@ Tecnologias: Node.js · Express · MySQL · bcrypt · JWT
 
 Plataforma voltada para criadores de conteúdo, centralizando dados de diferentes redes sociais em um único ambiente.
 
-Objetivo do projeto:
+#### Objetivo do projeto:
 
-📊 Centralizar métricas de Instagram, TikTok e YouTube
-📈 Criar dashboards e insights sobre desempenho
-🤖 Utilizar IA para auxiliar na geração de ideias e análises
-🔗 Trabalhar com APIs oficiais e autenticação OAuth
-📋 Gerar relatórios e informações úteis para criadores
+📊 Centralizar métricas de Instagram, TikTok e YouTube<br>
+📈 Criar dashboards e insights sobre desempenho<br>
+🤖 Utilizar IA para auxiliar na geração de ideias e análises<br>
+🔗 Trabalhar com APIs oficiais e autenticação OAuth<br>
+📋 Gerar relatórios e informações úteis para criadores<br>
 
 Tecnologias: Node.js · Express · MySQL · React · JavaScript · APIs REST · OAuth · APIs de redes sociais · IA
 
@@ -107,12 +107,12 @@ Tecnologias: Node.js · Express · MySQL · React · JavaScript · APIs REST · 
 
 Aplicação web que relaciona emoções e música, permitindo explorar playlists de acordo com diferentes estados emocionais.
 
-Principais recursos:
+#### Principais recursos:
 
-🎵 Seleção de músicas e playlists
-🎭 Experiência baseada em emoções
-🔗 Integração entre front-end e back-end
-📱 Interface responsiva
+🎵 Seleção de músicas e playlists<br>
+🎭 Experiência baseada em emoções<br>
+🔗 Integração entre front-end e back-end<br>
+📱 Interface responsiva<br>
 
 Tecnologias: JavaScript · HTML · CSS · Node.js · API REST · Banco de dados
 
