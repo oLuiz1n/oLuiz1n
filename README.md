@@ -54,6 +54,33 @@ Também possuo experiência prática com desenvolvimento full stack, trabalhando
 
 ## 📌 Projetos em destaque
 
+### 📊 ShopNow — Análise de Faturamento
+
+Projeto de análise de dados desenvolvido a partir de uma base de vendas, com o objetivo de investigar a queda de faturamento entre períodos e identificar os principais fatores relacionados ao resultado.
+
+#### Etapas do projeto:
+
+🧹 Limpeza e preparação dos dados com Python e Pandas<br>
+🔎 Investigação de variações de faturamento, volume e descontos<br>
+🗃️ Consultas SQL para análise dos dados<br>
+📊 Construção de indicadores e métricas no Power BI<br>
+📈 Desenvolvimento de dashboard interativo<br>
+💡 Identificação dos principais fatores relacionados à queda de faturamento<br>
+📝 Apresentação dos resultados e recomendações baseadas nos dados
+
+#### Principais análises:
+
+📉 Comparação do faturamento entre julho e agosto<br>
+📦 Análise de volume de unidades vendidas<br>
+💰 Impacto de descontos e preços<br>
+🛍️ Análise de desempenho por produto<br>
+🌎 Análise regional<br>
+🔍 Investigação da mudança no mix de produtos
+
+Tecnologias: Python · Pandas · SQL · Power BI · DAX
+
+---
+
 ### 💰 Finance Tracker
 
 Aplicação web para gerenciamento financeiro pessoal, com dashboard interativo, acompanhamento de receitas e despesas e análise dos dados por período e categoria.
